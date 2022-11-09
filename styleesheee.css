@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://www.wtravelmagazine.com/wp-content/uploads/2018/02/Background-Image-Signup-Page.jpg");
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    text-emphasis:none;
+    padding: 120px;
+    height: 100px;
+    font-size: x-large;
+    
+}
